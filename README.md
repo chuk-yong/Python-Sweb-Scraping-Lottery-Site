@@ -1,6 +1,6 @@
-# Python-Sweb-Scraping-Lottery-Site
+# Python-Web-Scraping-Lottery-Site
 
-A client who wanted to download lottery information from certain time period.
+A client wanted to download lottery information from certain time period.
 
 Demonstrate:
 
